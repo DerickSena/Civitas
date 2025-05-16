@@ -1,12 +1,12 @@
 {
-  "name": "create-nodejs-express-app",
+  "name": "Civitas",
   "version": "1.7.0",
-  "description": "Create a Node.js app for building production-ready RESTful APIs using Express, by running one command",
+  "description": "registration of people who will be part of the Social Urban Land Regularization",
   "bin": "bin/createNodejsApp.js",
   "main": "src/index.js",
   "repository": "https://github.com/hagopj13/node-express-boilerplate.git",
-  "author": "Hagop Jamkojian <hagopj13@gmail.com>",
-  "license": "MIT",
+  "author": "Dérick Sena <dericksenadev@gmail.com>",
+  "license": "CEITEC",
   "engines": {
     "node": ">=12.0.0"
   },
